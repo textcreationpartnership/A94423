@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his grace His Majesties high commissioner, and the high court of Parliament, the humble address of the Synod of Aberdeen</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94423</idno>
+            <idno type="STC">Wing T1362</idno>
+            <idno type="STC">ESTC R42593</idno>
+            <idno type="EEBO-CITATION">36282408</idno>
+            <idno type="OCLC">ocm 36282408</idno>
+            <idno type="VID">150325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2242:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his grace His Majesties high commissioner, and the high court of Parliament, the humble address of the Synod of Aberdeen</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Aberdeen? :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Names of the fifty-three signers on p. 4.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:150325:1" rendition="simple:additions"/>
+            <head>To his Grace his <hi>MAJESTIE'S</hi> high Commiſſioner and the High Court of PARLIAMENT, The humble Addreſs of the Synod <hi>of Aberdeen.</hi>
+            </head>
+            <p>THE various Diſpenſations wherewith the righteous and wiſe Lord of Heaven and Earth hath been exerciſing us theſe many years bygone, cries loud to all the Sub<g ref="char:EOLhyphen"/>jects in <hi>Scotland,</hi> who have not laid aſide all ſenſe of ſinne &amp; duty, to reflect ſeriouſly upon the publick Tranſactions of this Church &amp; Nation; eſpecially upon the deportment thereof to the KING and the Royal Authority: And while the Lord is pleaſed to fix ſuch Thoughts upon our Spirits, we cannot, unleſs we would blindfold our own Conſciences, ſtop the mouth thereof, hide our ſinne in our boſome with <hi>Adam,</hi> &amp; keep faſt Deceit under our Tongue, but give glory to God in an ane humble and inge<g ref="char:EOLhyphen"/>nuous Confeſſion, as of the National guiltineſs of <hi>Scotland,</hi> ſo of our own iniquity, in ſo farre as we have been any way acceſſo<g ref="char:EOLhyphen"/>ry to theſe ſinfull and rebellous affronts and wrongs which have been put upon Royal Authority, whether during the Reign of our late moſt Gracious Soveraign, that bleſſed Martyr CHARLES the I, or ſince his horrid Murder, to our Gracious King, who now in the Lords moſt wonderful and gracious Providence, reigns over us; and particularly we acknowledge theſe ſad &amp; grievous ſinnes, to be lying on the Land, and upon us, according to the ſe<g ref="char:EOLhyphen"/>veral Degrees and Meaſures of our acceſſion, whether driven thereto by force and violence of a prevailing party, through humane weakneſs in that hour of Temptation, or by ſinfull ſilence and want of Courage to have plead it againſt ſuch Courſes, <hi>viz.</hi> the riſing in Armes againſt the King, the preaching up the lawfulneſs of defenſive Armes by Subjects a<g ref="char:EOLhyphen"/>gainſt the Supreme Magiſtrate, which is contrary to Scripture, to all ſound Antiquity, to the conſtant practice of the ancient primitive Church, to the Judgement of all ſound Orthodox Di<g ref="char:EOLhyphen"/>vines, contrary to our National Confeſſion of Faith, and to the Oath of Alleageance, popular Reformation without, much more againſt, the Kings ſpecial Conſent and Authority; The aſſiſting the Kings Enemies by joyning our Forces with them, while as they were in Rebellion againſt their <hi>So<g ref="char:EOLhyphen"/>veraign
+<pb facs="tcp:150325:2" rendition="simple:additions"/>lord and Maſter</hi> the preaching down the Kings Cauſe &amp; Intereſt, and preaching up the Intereſt of his Enemies; the giving out a Paper, called <hi>A ſeaſonable warning for delivering up the King</hi> at <hi>Newcaſtle,</hi> and that without any Aſſurances either by Writ or Pledges for his Majeſties Security, ſafety, honour and free<g ref="char:EOLhyphen"/>dome, although there was no ſufficient Hoſtage in that Land to have been given for his ſacred Perſon; The preaching againſt the intend it Relief of his Majeſty of precious Memory, when he was a ſuffering Priſoner in the Iſle of <hi>Wight, anno</hi> 1648, where he was detained till at laſt theſe Uſurpers brought him to that fatal Block; The putting unjuſt Limitations and Reſtrictions upon out gracious King, who now reigns over us by Gods bleſ<g ref="char:EOLhyphen"/>ſing (in deſpight of all open and vailled Enemies, who of late have put on the Robe of Loyalty) before he was admitted to the Exerciſe of his Royal power; The indignities which were put upon his ſacred Majeſty, by a factious and treacherous par<g ref="char:EOLhyphen"/>ty in that infamous and treaſonable Remonſtrance; The oppo<g ref="char:EOLhyphen"/>ſing of the publick Reſolutions, both of King, Church and State by that party for the juſt &amp; neceſſary defence of King, Religion, Honour, Country &amp; all which was dear to Men or Chriſtians, the Land being invaded, &amp; one half thereof being poſſeſs'd by an Ar<g ref="char:EOLhyphen"/>my of Sectaries, who by force &amp; fraud had inſlaved their own na<g ref="char:EOLhyphen"/>tive Countrey, that ancient and famous Kingdom of <hi>England:</hi> And although theſe ſinnes of the Remonſtrance, oppoſing of, and proteſting againſt the publict Reſolutions, be not a National guiltineſs, both the one and the other being teſtifyed againſt and Condemned by the generality of the State, Church and Country: yet theſe being the guiltineſs of a party in the Nation, we could not omit them as matters of juſt provocation againſt God Almigh<g ref="char:EOLhyphen"/>ty: The excluding of the Kings intereſt out of the ſtate of the quarrel betwix his Majeſties own Army, and that Uſurper and Tyrant, <hi>Oliver Cromwell,</hi> by that infamous <hi>Act of the weſt-Kirk:</hi> The forcing of the Kings Majeſty, being then in their power rather as a noble priſoner than a free King, ſore againſt his Royal will to ſubſcribe Declarations againſt himſelf and his Royal Family: The little ſympathy with his Majeſty in his ſuf<g ref="char:EOLhyphen"/>ferings abroad: The ſinfull neglect of Duty for fear of men in not praying for him in publict, ſinfull ſilence in nor preaching abſo<g ref="char:EOLhyphen"/>lutly againſt the Uſurpers, too much at leaſt paſſive complyance with them, ſitting down like <hi>Iſſachar</hi> under the burden, and being
+<pb facs="tcp:150325:2"/>like <hi>Ephraim</hi> a ſilly dove without a heart. For thoſe, and ſinnes of the like Nature done againſt the Royal authority, God in his Juſtice and Wiſdome, brought and keeped us long under a ſad Captivity and bondage. And have not all the Land and we ac<g ref="char:EOLhyphen"/>cording unto the meaſure of our acceſſion more nor reaſon to confeſs guiltineſs before God, Men and Angels, and to intreat earneſtly for mercy therefore at the throne of Grace? And now ſince is hath pleaſed the Eternal God, by whom Kings Reign, to bring back our native King, and to ſettle him upon his Royal An<g ref="char:EOLhyphen"/>ceſtors throne, for which we ſhall deſire to bleſs the Lord while we live. We conceive that upon this ſignal Mercie God calls us to engage, likeas hereby we do in the ſtrength of God, engage our ſelves never to be acceſſory to any diſloyal principle or practiſe, but declare our utter abhorrence thereof, and of every thing that may have any tendency that way, oblieging not only our ſelves to ſubjection, obedience and ſubmiſſion to the Royal Authority and Commands, but alſo to preach Loyalty, ſubjection, obedience and ſubmiſſion, and to preſs the ſamen from the word of God and according thereto upon all his Majeſties ſubjects under our Mi<g ref="char:EOLhyphen"/>niſtry. And that it is ſinfull and ungodly for ſubjects to reſiſt the Kings Authority but in caſe of diſſatisfaction in any thing com<g ref="char:EOLhyphen"/>manded by his Majeſty, it is their duty to ſuffer: And becauſe it hath pleaſed the Kings Majeſty and his high Court of Parliament for the over reaching of ſeveral miniſters in <hi>Scotland,</hi> their out<g ref="char:EOLhyphen"/>ſtreatching of <hi>Presbyterial Government</hi> by making it run in an ex<g ref="char:EOLhyphen"/>centick line in medling with civil concernments and <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ng <gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>i<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the ſupreme Authority, and upon other grave Conſiderations, known to themſelves, which becomes us not to ſearch unto, to take away and reſcind the Laws and Acts of Parliament where<g ref="char:EOLhyphen"/>by the Government of this Church had any Civil Authority. That it would pleaſe the Kings Commiſſioner's Grace, and the High Court of Parliament, to Join with us in this our earneſt Pe<g ref="char:EOLhyphen"/>tition, and to tranſmit the ſamen to his ſacred Majeſty. That he will allow us to be ſtill under his Majeſties protection; and that he may be pleaſed in his Wiſdom and Goodneſs, to ſettle the Go<g ref="char:EOLhyphen"/>vernment of this rent Church, according to the Word of God, the practiſe of the ancient primitive Church in ſuch way as may be moſt conſiſtent with <hi>Royal</hi> Authority, may conduce moſt for godlineſs, for unity, peace and order, for a learned, godly, peace<g ref="char:EOLhyphen"/>able, loyal Miniſterie, and moſt apt to preſerve the peace of
+<pb facs="tcp:150325:3" rendition="simple:additions"/>the three Nations: For doing whereof, we ſhall be earneſt to ſupplieat God in his Majeſties behalf for Wiſdome, Counſel and Direction. We have conceived this Emiſſion to be a duty lying upon us, in reference to God, to the King, to this Church and Land, and for the exoneration of our own Conſciences before the World. And although this has been our principal motives, yet it hath been no ſmall encouragement to this Synode, that we have been put in remembrance by that Noble and worthy Lord the Earl of <hi>Marſhell</hi> in his Letter to the Aſſembly to this effect And for which the Synod renders his Lordſhip hearty thanks, conſidering that he, having ſo great influence in this Corner of the Land, may be very inſtrumental for advancing Religion, Juſtice and Loyalty here. And this Paper we have ordained to be regiſtred in our Synod Books <hi>ad futuram rei memoriam:</hi> And in teſtimony of our unanimitie therein, We have all ſub<g ref="char:EOLhyphen"/>ſcribed it with our Hands. At the Kings Colledge at <hi>Aberdeen</hi> the 18. of <hi>April</hi> 1661. years.</p>
+            <list>
+               <item>
+                  <hi>Mr.</hi> Alex: Roſs <hi>Miniſter of</hi> Monimusk <hi>and Moderator.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Jo. Paterſone <hi>Minister at</hi> Aberdeen</item>
+               <item>Mr. John Menzies, <hi>Profeſsor of Divinity and Miniſter at</hi> Aberdeen</item>
+               <item>
+                  <hi>Mr.</hi> Geo: Meldrum, <hi>Miniſt: at</hi> Aberdeen:</item>
+               <item>
+                  <hi>Mr:</hi> Wil:Douglas, <hi>Profeſsor of Divinity in the Kings Colledge of old</hi> Aberdeen.</item>
+               <item>
+                  <hi>Mr.</hi> Andr. Straughan <hi>Miniſter at</hi> Kintore</item>
+               <item>
+                  <hi>Mr:</hi> Will. Cheyne <hi>Minister at</hi> Byce.</item>
+               <item>
+                  <hi>Mr.</hi> Geo. Melvil <hi>Min. at</hi> Upper-Macher:</item>
+               <item>
+                  <hi>Mr:</hi> Will:Chalmer, <hi>Min. at</hi> Skeene.</item>
+               <item>
+                  <hi>Mr.</hi> Dav.Lyell, <hi>Min:at</hi> Banchorie-Devnie</item>
+               <item>
+                  <hi>Mr:</hi> Dav: Lindſay. <hi>Min: at</hi> Drum-maag.</item>
+               <item>
+                  <hi>Mr.</hi> Alex: Garioch, <hi>Min. at</hi> Peter-Coulter</item>
+               <item>
+                  <hi>Mr.</hi> Jo. Seaton, <hi>Miniſter at</hi> Foverane.</item>
+               <item>
+                  <hi>Mr</hi> Jo. Paterſon, <hi>Minister at</hi> Eiloun:</item>
+               <item>
+                  <hi>Mr:</hi> Gilb:Anderſon, <hi>Miniſter at</hi> Crudan:</item>
+               <item>
+                  <hi>Mr:</hi> Wil Muſhatt, <hi>Miniſter at</hi> Slaines:</item>
+               <item>
+                  <hi>Mr:</hi> Wil:Seatone, <hi>Min. at</hi> Logiebuthan:</item>
+               <item>
+                  <hi>Mr</hi> Rob: Ogilvie, <hi>Miniſter at</hi> Methluck:</item>
+               <item>Mr. Wil Keith <hi>Minister at</hi> Udny:</item>
+               <item>Mr. Jo:Roſs, <hi>Minister at</hi> Birſs:</item>
+               <item>Mr Geo. Burnett, <hi>Min, at</hi> Kineardin,</item>
+               <item>Mr Wil. Seatone, <hi>Min. at</hi> Lumphanan,</item>
+               <item>Mr. Tho. Roſs, <hi>Minister at</hi> Aboyne.</item>
+               <item>Mr: Lod Dunl<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>, <hi>Minist: at</hi> Tarlan.</item>
+               <item>Mr Arth. R<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs, <hi>Min. at</hi> Kinarnie.</item>
+               <item>Mr. An<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Skeene <hi>Min:at</hi> Clunnie.</item>
+               <item>Mr Jo: Ferguſſone, <hi>Min:at</hi> Glenmuick</item>
+               <item>Mr Rob: Forbes, <hi>miniſt: at</hi> Coldſtone,</item>
+               <item>
+                  <hi>Mr.</hi> Wil: Douglas, <hi>miniſt:at</hi> Middm<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rr</item>
+               <item>Mr Adam Barclay, <hi>miniſter at</hi> Towie,</item>
+               <item>Mr Wil.Duncan, <hi>miniſter at</hi> Kildrimmie</item>
+               <item>
+                  <hi>Mr</hi> Ja, Gordon, <hi>minister at</hi> Touch</item>
+               <item>Mr Wil. Glaſs, <hi>miniſter at</hi> Cuſhnie,</item>
+               <item>
+                  <hi>Me</hi> Geo.Garden, <hi>minister at</hi> Clatt.</item>
+               <item>Mr Tho. Thores, <hi>minister at</hi> Daviot.</item>
+               <item>
+                  <hi>Mr</hi> Wil. Forbes <hi>miniſt: at</hi> Moeturie</item>
+               <item>
+                  <hi>Mr</hi> Jo. Gellie, <hi>miniſter at</hi> Kinkell</item>
+               <item>
+                  <hi>Mr</hi> Alex: Middletone, <hi>min, at</hi> Raine</item>
+               <item>Mr Ja. Willocks, <hi>minister at</hi> Kemnay</item>
+               <item>Mr Geo:Milne, <hi>miniſter at</hi> Premnay, <hi>and Clerk to the Aſſembly.</hi>
+               </item>
+               <item>Mr Arth;Ore, <hi>miniſt. at</hi> Colſalmond</item>
+               <item>Mr Wil: Burnett <hi>miniſter at</hi> In<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>h</item>
+               <item>
+                  <hi>Mr</hi> Jo.Strang, <hi>minister at</hi> Oyne</item>
+               <item>Mr Wil; Chalmer, <hi>miniſter at</hi> Boynlie</item>
+               <item>Mr James Chalmer, <hi>minister at</hi> Culian</item>
+               <item>Mr Wil.Stevintone, <hi>miniſter at</hi> Fordyre</item>
+               <item>Mr Jo, Watſone, <hi>minister at</hi> Ordefall</item>
+               <item>Mr Andr:Henderſone. <hi>min: at</hi> Deskford</item>
+               <item>Mr. Wil, Jaffray, <hi>min:at</hi> King Edward</item>
+               <item>Mr Alex; Garden, <hi>miniſter at</hi> Forgue</item>
+               <item>Mr Wil; Gray, <hi>minister at</hi> Aucterleſſe</item>
+               <item>Mr Ja; Moore <hi>minister at</hi> Rathen</item>
+               <item>Mr. Jo; Robertſon, <hi>min. at</hi> Langfergus.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
